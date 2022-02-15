@@ -3,7 +3,7 @@
 
 ## 1 
 <p align="center">
-<img src="https://github.com/Amirupasandul11/Amirupasandul11/blob/main/Cyber_Technology.jpg" width="300%">
+<img src="https://github.com/Amirupasandul11/python_Clock/blob/main/1.png" width="300%">
 <div align="center">
 </div>
 
@@ -39,7 +39,7 @@ mainloop()
 
 ## 2
 <p align="center">
-<img src="https://github.com/Amirupasandul11/Amirupasandul11/blob/main/Cyber_Technology.jpg" width="300%">
+<img src="https://github.com/Amirupasandul11/python_Clock/blob/main/2.png" width="300%">
 <div align="center">
 </div>
 
@@ -78,7 +78,7 @@ mainloop()
 
 ## 3
 <p align="center">
-<img src="https://github.com/Amirupasandul11/Amirupasandul11/blob/main/Cyber_Technology.jpg" width="300%">
+<img src="https://github.com/Amirupasandul11/python_Clock/blob/main/3.png" width="300%">
 <div align="center">
 </div>
 
